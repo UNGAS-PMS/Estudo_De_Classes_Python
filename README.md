@@ -14,7 +14,6 @@ Projeto simples de pesquisa de livros utilizando:
 - Buscar livros por título
 - Exibir autor
 - Pesquisa contínua no terminal
-- Ignora letras maiúsculas/minúsculas
 
 ## Tecnologias
 
